@@ -1,0 +1,14 @@
+#aboutmeParentText {
+  position: relative;
+}
+
+#aboutmeChildText
+{
+  position: absolute;
+  top: 20%;
+  transform: translateY();
+}
+
+#contactMe {
+  align-content: center;
+}
